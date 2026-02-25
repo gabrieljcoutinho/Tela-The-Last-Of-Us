@@ -20,7 +20,8 @@ const listaHeader = () => {
                     <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Arcada</a></li>
             </u>
 
-            <ul className='ulHeaderIcones'>
+        <div className="conteudoicones">
+        <ul className='ulHeaderIcones'>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgLupa} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCurtir} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCarrinho} alt="" /></a></li>
@@ -28,6 +29,7 @@ const listaHeader = () => {
 
 
             <button>Signup/Login</button>
+        </div>
         </div>
 
 
