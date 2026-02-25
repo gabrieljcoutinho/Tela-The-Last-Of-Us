@@ -7,7 +7,7 @@ const listaHeader = () => {
     <div>
 
             <ul>
-                    <li><a href="#"></a></li>
+                    <li><a href="#">Genre</a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
