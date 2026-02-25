@@ -20,7 +20,7 @@ const listaHeader = () => {
             </ul>
 
             <ul>
-                <li><a href="#"><img src={} alt="" /></a></li>
+                <li><a href="#"><img src={imgLupa} alt="" /></a></li>
                 <li><a href="#"><img src={} alt="" /></a></li>
                 <li><a href="#"><img src={} alt="" /></a></li>
             </ul>
