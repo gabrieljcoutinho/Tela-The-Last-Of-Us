@@ -20,6 +20,10 @@
     text-decoration: none;
 }
 
+.ulHeaderListaLink:hover {
+    text-decoration: underline;
+}
+
 .ulHeaderIcones {
     display: flex;
     gap: 20px;
