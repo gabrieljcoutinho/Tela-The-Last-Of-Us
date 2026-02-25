@@ -12,7 +12,7 @@ const listaHeader = () => {
 
         <div className="listaConjunta">
         <u className='ulHeader'l>
-                    <li className='ulHeaderLista'><a href="#">Genre</a></li>
+                    <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Genre</a></li>
                     <li className='ulHeaderLista'><a href="#">Action</a></li>
                     <li className='ulHeaderLista'><a href="#">Battle Royale</a></li>
                     <li className='ulHeaderLista'><a href="#">Adventure</a></li>
