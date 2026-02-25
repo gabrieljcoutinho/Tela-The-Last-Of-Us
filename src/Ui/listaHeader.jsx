@@ -11,7 +11,7 @@ const listaHeader = () => {
                     <li><a href="#">Action</a></li>
                     <li><a href="#">Battle Royale</a></li>
                     <li><a href="#">Adventure</a></li>
-                    <li><a href="#"></a></li>
+                    <li><a href="#">Strategy</a></li>
                     <li><a href="#"></a></li>
             </ul>
 
