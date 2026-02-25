@@ -27,6 +27,7 @@
 .ulHeaderIcones {
     display: flex;
     gap: 20px;
-    padding-left: 5rem;
+    padding-left: 50rem;
     list-style-type: none;
+    gap: 30px;
 }
