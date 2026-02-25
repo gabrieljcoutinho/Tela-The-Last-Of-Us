@@ -1,12 +1,13 @@
 import '../src/index.css';
 
+import Header from "../src/components/Header.jsx"
 
 
 function App() {
   return (
     <div className="App">
 
-        <h1></h1>
+        <Header />
     </div>
   );
 }
