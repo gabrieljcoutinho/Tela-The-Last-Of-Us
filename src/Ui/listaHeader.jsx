@@ -12,7 +12,7 @@ const listaHeader = () => {
                     <li><a href="#">Battle Royale</a></li>
                     <li><a href="#">Adventure</a></li>
                     <li><a href="#">Strategy</a></li>
-                    <li><a href="#"></a></li>
+                    <li><a href="#">Arcada</a></li>
             </ul>
 
     </div>
