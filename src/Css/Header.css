@@ -23,4 +23,5 @@
     display: flex;
     gap: 20px;
     padding-left: 5rem;
+    list-style-type: none;
 }
