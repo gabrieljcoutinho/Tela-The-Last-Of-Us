@@ -10,6 +10,8 @@ const section = (props: Props) => {
 
                 <p>35</p>
 
+                <h1>The LAst Of Us Part 2</h1>
+
     </div>
   )
 }
