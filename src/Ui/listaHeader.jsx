@@ -2,7 +2,7 @@ import React from 'react'
 import "../Css/Header.css"
 
 import imgLupa from "../img/imgLupa.png"
-import imgLupa from "../img/imgLupa.png"
+import imgCurtir from "../img/imgCurtir.png"
 import imgLupa from "../img/imgLupa.png"
 
 
