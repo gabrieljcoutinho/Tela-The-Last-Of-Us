@@ -11,7 +11,9 @@
     display: flex;
 }
 
-.ulHeaderListaLink {}
+.ulHeaderListaLink {
+    color: #fff;
+}
 
 .ulHeaderIcones {
     display: flex;
