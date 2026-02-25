@@ -10,7 +10,7 @@ const listaHeader = () => {
                     <li><a href="#">Genre</a></li>
                     <li><a href="#">Action</a></li>
                     <li><a href="#">Battle Royale</a></li>
-                    <li><a href="#"></a></li>
+                    <li><a href="#"><Adventure></Adventure></a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
             </ul>
