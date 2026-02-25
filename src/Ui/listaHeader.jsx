@@ -4,7 +4,7 @@ import "../Css/Header.css"
 
 const listaHeader = () => {
   return (
-    <div>
+    <div className='header'>
 
             <ul>
                     <li><a href="#">Genre</a></li>
