@@ -10,7 +10,7 @@ const section = () => {
 
                 <h1>The LAst Of Us Part 2</h1>
 
-                <p>Genero: Action / Adventure ? Strate</p>
+                <p className='generoDoJogo'>Genero: Action / Adventure ? Strate</p>
 
     </div>
   )
