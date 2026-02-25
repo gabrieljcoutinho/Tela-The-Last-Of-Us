@@ -31,3 +31,7 @@
     list-style-type: none;
     gap: 30px;
 }
+
+.conteudoicones {
+    display: flex;
+}
