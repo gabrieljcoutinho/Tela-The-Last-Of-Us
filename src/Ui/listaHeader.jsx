@@ -25,6 +25,8 @@ const listaHeader = () => {
                 <li><a href="#"><img src={imgCarrinho} alt="" /></a></li>
             </ul>
 
+            <button>Signup/Login</button>
+
     </div>
   )
 }
