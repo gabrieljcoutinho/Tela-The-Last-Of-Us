@@ -12,7 +12,7 @@ const listaHeader = () => {
 
             <u className='ulHeader'l>
                     <li className='ulHeaderLista'><a href="#">Genre</a></li>
-                    <li><a href="#">Action</a></li>
+                    <li className='ulHeaderLista'><a href="#">Action</a></li>
                     <li><a href="#">Battle Royale</a></li>
                     <li><a href="#">Adventure</a></li>
                     <li><a href="#">Strategy</a></li>
