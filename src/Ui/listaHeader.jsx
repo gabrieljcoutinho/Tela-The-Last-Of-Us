@@ -10,14 +10,14 @@ const listaHeader = () => {
   return (
     <div className='header'>
 
-            <ul>
+            <u className='ulHeader'l>
                     <li><a href="#">Genre</a></li>
                     <li><a href="#">Action</a></li>
                     <li><a href="#">Battle Royale</a></li>
                     <li><a href="#">Adventure</a></li>
                     <li><a href="#">Strategy</a></li>
                     <li><a href="#">Arcada</a></li>
-            </ul>
+            </u>
 
             <ul>
                 <li><a href="#"><img src={imgLupa} alt="" /></a></li>
