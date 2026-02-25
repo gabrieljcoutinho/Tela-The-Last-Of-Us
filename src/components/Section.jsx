@@ -6,7 +6,11 @@ type Props = {}
 
 const section = (props: Props) => {
   return (
-    <div>section</div>
+    <div>
+
+                <p>35</p>
+
+    </div>
   )
 }
 
