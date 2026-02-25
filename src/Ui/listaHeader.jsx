@@ -17,7 +17,7 @@ const listaHeader = () => {
                     <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Battle Royale</a></li>
                     <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Adventure</a></li>
                     <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Strategy</a></li>
-                    <li className='ulHeaderLista'><a href="#">Arcada</a></li>
+                    <li className='ulHeaderLista'><a href="#" className='ulHeaderListaLink'>Arcada</a></li>
             </u>
 
             <ul className='ulHeaderIcones'>
