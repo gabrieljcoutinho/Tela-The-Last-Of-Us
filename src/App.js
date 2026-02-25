@@ -1,6 +1,7 @@
 import '../src/index.css';
 
 import Header from "../src/components/Header.jsx"
+import Section from "../src/components/Section.jsx"
 
 
 function App() {
@@ -8,6 +9,9 @@ function App() {
     <div className="App">
 
         <Header />
+
+    <Section />
+
     </div>
   );
 }
