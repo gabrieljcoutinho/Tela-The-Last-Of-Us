@@ -1,5 +1,16 @@
+html,
 body {
-    background-image: url("../src//img//fundoprincipal.png");
-    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url("../src/img/fundoprincipal.png");
+    /* Define 100% de largura e 100% de altura da tela */
+    background-size: 100% 100%;
     background-repeat: no-repeat;
+    /* Garante que o fundo fique fixo se a página tiver rolagem */
+    background-attachment: fixed;
 }
