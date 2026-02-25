@@ -13,6 +13,7 @@
 
 .ulHeaderListaLink {
     color: #fff;
+    list-style-type: none;
 }
 
 .ulHeaderIcones {
