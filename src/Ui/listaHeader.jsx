@@ -19,7 +19,7 @@ const listaHeader = () => {
                     <li className='ulHeaderLista'><a href="#">Arcada</a></li>
             </u>
 
-            <ul>
+            <ul className='ulHeaderIcones'>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgLupa} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCurtir} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCarrinho} alt="" /></a></li>
