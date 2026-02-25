@@ -29,10 +29,10 @@
     gap: 20px;
     padding-left: 50rem;
     list-style-type: none;
-    gap: 30px;
+    gap: 50px;
 }
 
 .conteudoicones {
     display: flex;
-    gap: 20px;
+    gap: 50px;
 }
