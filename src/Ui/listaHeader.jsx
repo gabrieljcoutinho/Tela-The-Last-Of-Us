@@ -10,7 +10,8 @@ const listaHeader = () => {
   return (
     <div className='header'>
 
-            <u className='ulHeader'l>
+        <div className="listaConjunta">
+        <u className='ulHeader'l>
                     <li className='ulHeaderLista'><a href="#">Genre</a></li>
                     <li className='ulHeaderLista'><a href="#">Action</a></li>
                     <li className='ulHeaderLista'><a href="#">Battle Royale</a></li>
@@ -24,6 +25,7 @@ const listaHeader = () => {
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCurtir} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCarrinho} alt="" /></a></li>
             </ul>
+        </div>
 
             <button>Signup/Login</button>
 
