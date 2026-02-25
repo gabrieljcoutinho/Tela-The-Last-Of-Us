@@ -1,3 +1,7 @@
+.section {
+    padding-left: 5rem;
+}
+
 .preco {
     color: #fff;
     font-size: 30px;
