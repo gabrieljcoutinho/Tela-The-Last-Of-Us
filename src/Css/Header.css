@@ -9,11 +9,11 @@
 
 .ulHeader {
     display: flex;
+    list-style-type: none;
 }
 
 .ulHeaderListaLink {
     color: #fff;
-    list-style-type: none;
 }
 
 .ulHeaderIcones {
