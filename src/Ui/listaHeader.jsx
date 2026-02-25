@@ -3,7 +3,7 @@ import "../Css/Header.css"
 
 import imgLupa from "../img/imgLupa.png"
 import imgCurtir from "../img/imgCurtir.png"
-import imgLupa from "../img/imgLupa.png"
+import imgCarrinho from "../img/imgCarrinho.png"
 
 
 const listaHeader = () => {
