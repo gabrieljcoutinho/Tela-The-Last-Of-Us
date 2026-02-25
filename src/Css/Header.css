@@ -10,6 +10,7 @@
 .ulHeader {
     display: flex;
     list-style-type: none;
+    gap: 30px;
 }
 
 .ulHeaderListaLink {
