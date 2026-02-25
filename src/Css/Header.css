@@ -1,3 +1,7 @@
 .ulHeader {
     display: flex;
 }
+
+.ulHeaderIcones {
+    display: flex;
+}
