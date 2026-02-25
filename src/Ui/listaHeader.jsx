@@ -1,6 +1,10 @@
 import React from 'react'
 import "../Css/Header.css"
 
+import imgLupa from "../img/imgLupa.png"
+import imgLupa from "../img/imgLupa.png"
+import imgLupa from "../img/imgLupa.png"
+
 
 const listaHeader = () => {
   return (
