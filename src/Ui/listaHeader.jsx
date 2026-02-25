@@ -25,9 +25,11 @@ const listaHeader = () => {
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCurtir} alt="" /></a></li>
                 <li className='ulHeaderListaImgs'><a href="#"><img src={imgCarrinho} alt="" /></a></li>
             </ul>
-        </div>
+
 
             <button>Signup/Login</button>
+        </div>
+
 
     </div>
   )
