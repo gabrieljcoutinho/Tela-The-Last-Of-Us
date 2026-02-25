@@ -9,7 +9,7 @@ const listaHeader = () => {
             <ul>
                     <li><a href="#">Genre</a></li>
                     <li><a href="#">Action</a></li>
-                    <li><a href="#"></a></li>
+                    <li><a href="#">Battle Royale</a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
