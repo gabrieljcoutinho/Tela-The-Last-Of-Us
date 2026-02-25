@@ -1,3 +1,7 @@
+.listaConjunta {
+    display: flex;
+}
+
 .ulHeader {
     display: flex;
 }
